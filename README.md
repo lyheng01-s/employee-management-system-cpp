@@ -23,15 +23,3 @@ The system stores employee information using CSV/Excel-style files and allows ad
 - File Handling
 - CSV/Excel-style Data Storage
 
-## Project Structure
-
-| File | Description |
-|---|---|
-| `main.cpp` | Main program file |
-| `README.md` | Project documentation |
-| `.gitignore` | Files ignored by Git |
-
-## Note
-
-This repository contains only the source code.  
-Employee data files, Excel files, and compiled program files are not included.
